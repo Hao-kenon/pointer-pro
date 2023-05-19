@@ -148,7 +148,7 @@ void print2(int(*p)[5], int x, int y)
 int main()
 {
 	int arr[3][5] = { {1,2,3,4,5},{2,3,4,5,6},{3,4,5,6,7} };
-	//print1(arr, 3, 5);
+	//print1(arr, 3, 5); arr是数组首元素地址
 	print2(arr, 3, 5);
 	return 0;
 }
