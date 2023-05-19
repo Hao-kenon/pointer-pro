@@ -71,7 +71,7 @@
 //	int arr1[] = { 1,2,3,4,5,6 };
 //	int arr2[] = { 2,3,4,5,6,7 };
 //	int arr3[] = { 3,4,5,6,7,8 };
-//	int* parr[] = { arr1,arr2,arr3 };arr1 arr2 arr3 都是数组是元素地址
+//	int* parr[] = { arr1,arr2,arr3 };arr1 arr2 arr3 都是数组元素地址
 //	int i = 0;
 //	for (i = 0; i < 3; i++)
 //	{
